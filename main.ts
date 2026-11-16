@@ -1,4 +1,5 @@
-// ai-excited-01 entry: copy the image beside this file to the output dir.
+// Golden Whale — ai-excited-01 entry: copy the image beside this file to the output dir.
+// The image is a JPEG under 1 MiB.
 // The image is a luminous whale breaching through golden clouds above a tiny
 // city at golden hour — one huge shape, one thrilling moment, readable small.
 // Runs under Node 22 (stdlib only) in a sandbox with no network:
